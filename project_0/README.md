@@ -11,6 +11,7 @@
 
 [5. Выводы](https://github.com/dushaelena1319/data_science/blob/main/project_0/README.md#Выводы)
 
+
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
