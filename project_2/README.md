@@ -161,7 +161,7 @@
 
 ### Результаты:
 
-Проект c корректным выполнением кейса ["Практическая работа"](https://github.com/dushaelena1319/data_science/blob/main/project_2/README.md/скважина.ipynb).
+Проект c корректным выполнением кейса ["Практическая работа"](https://github.com/dushaelena1319/data_science/blob/main/project_2/скважина.ipynb).
 
 <br>
 
