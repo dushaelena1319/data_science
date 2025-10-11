@@ -1,7 +1,7 @@
 # Проект 3. Рейтинг отеля по данным сайта Booking.<br> EDA + Feature Engineering. Соревнование на Kaggle
 
 ## Оглавление
-[1. Описание проекта](https://github.com/dushaelena1319/data_science/blob/main/project_/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/dushaelena1319/data_science/blob/main/project_4/README.md#Описание-проекта)
 
 [2. Какой кейс решаем?](https://github.com/dushaelena1319/data_science/blob/main/project_4/README.md#Какой-кейс-решаем)
 
@@ -11,7 +11,7 @@
 
 [5. Результаты](https://github.com/dushaelena1319/data_science/blob/main/project_4/README.md#Результаты)
 
-  > Перейти прямо к [презентации решения кейса](https://github.com/dushaelena1319/data_science/blob/main/project_4/README.md/Booking.ipynb)
+  > Перейти прямо к [презентации решения кейса](https://github.com/dushaelena1319/data_science/blob/main/project_4/Booking.ipynb)
 
 [6. Выводы](https://github.com/dushaelena1319/data_science/blob/main/project_4/README.md#Выводы)  
 
@@ -166,7 +166,7 @@
 
 ### Результаты:
 
-Проект c корректным выполнением кейса ["Рейтинг отеля по данным сайта Booking"](https://github.com/dushaelena1319/data_science/blob/main/project_4/README.md/Booking.ipynb).
+Проект c корректным выполнением кейса ["Рейтинг отеля по данным сайта Booking"](https://github.com/dushaelena1319/data_science/blob/main/project_4/Booking.ipynb).
 
 ### Выводы
 В процессе выполнения кейса первоначальные данные были:
