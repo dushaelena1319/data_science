@@ -130,23 +130,6 @@
 * *lat* - географическая широта отеля;
 * *lng* - географическая долгота отеля.
 
-
-### Требования для работы
-*   Основой интерпретатор - Python 3.10 (у меня взят из Windows App Store для максимальной бесшовной интеграции с VSCode);
-*   Дополнительные требования перечислены в requirements.txt (получены командой pip freeze > requirements.txt);
-*   Установка всех недостающих дополнительных компонент:
-
-            pip install -r requirements.txt
-
-*   В проекте используется:
-    
-    *   scikit-learn:
-            
-            pip install -U scikit-learn
-    
-            pip install -U lightautoml
-
-
 :arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_4/README.md#Оглавление)
 
 ### Этапы работы над проектом
