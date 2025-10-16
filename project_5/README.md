@@ -5,7 +5,7 @@
 
 [2. Какой кейс решаем?](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md##Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Краткая-информация-о-данных)
 
 [4. Этапы работы над проектом](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Этапы-работы-над-проектом)
 
@@ -76,7 +76,7 @@
 -   Повышаю квалификацию по методам преобразования и очистки данных; 
 -   Повышаю квалификацию с GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Описание-проекта#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Оглавление)
 
 <br>
 
@@ -98,9 +98,8 @@
 
 * Оценить качество обеих полученной модели с помощью метрики  $F_1$.
 
-:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Описание-проекта#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Оглавление)
 
-<br>
 
 ### Этапы работы над проектом
 - Ознакомление с описанием задачи;
@@ -126,4 +125,4 @@
 Все получилось, использовали разные параметры alpha.
 Точность модели при наилучшем значении alpha: 0.992
 
-:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Описание-проекта#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Оглавление)
