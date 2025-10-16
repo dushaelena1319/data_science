@@ -1,19 +1,19 @@
 # Проект 5. Классификация спам-сообщений
 
 ## Оглавление
-[1. Описание проекта](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Описание-проекта#Описание-проекта)
+[1. Описание проекта](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Описание-проекта#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Описание-проекта#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md##Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Описание-проекта#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Этапы-работы-над-проектом)
 
-[5. Результаты](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Описание-проекта#Результаты)
+[5. Результаты](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Результаты)
 
   > Перейти прямо к [презентации решения кейса](https://github.com/dushaelena1319/data_science/blob/main/project_5/Спам%20Байесовский.ipynb)
 
-[6. Выводы](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Описание-проекта#Выводы)  
+[6. Выводы](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Выводы)  
 
 ## Описание проекта
 Можно полностью самостоятельно, «с нуля» реализовать байесовский классификатор с довольно высокой точностью. Разумеется, при решении реальных задач не будем каждый раз самостоятельно прописывать алгоритм — можно использовать готовые методы. В библиотеке ***sklearn*** есть несколько байесовских классификаторов:
