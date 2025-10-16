@@ -79,7 +79,7 @@
 -   Повышаю квалификацию по методам преобразования и очистки данных; 
 -   Повышаю квалификацию с GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_6/README.md#Оглавление)
 
 ### Краткая информация о данных
 
