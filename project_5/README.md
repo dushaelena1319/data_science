@@ -11,7 +11,7 @@
 
 [5. Результаты](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Описание-проекта#Результаты)
 
-  > Перейти прямо к [презентации решения кейса](https://github.com/dushaelena1319/data_science/blob/main/project_2/README.md#Описание-проекта/project/HW-12.ipynb)
+  > Перейти прямо к [презентации решения кейса](https://github.com/dushaelena1319/data_science/blob/main/project_5/Спам%20Байесовский.ipynb)
 
 [6. Выводы](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Описание-проекта#Выводы)  
 
@@ -114,7 +114,7 @@
 
 ### Результаты:
 
-Проект c корректным выполнением кейса ["Практическая работа"](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Описание-проекта/project/HW-12.ipynb).
+Проект c корректным выполнением кейса ["Практическая работа"](https://github.com/dushaelena1319/data_science/blob/main/project_5/Спам%20Байесовский.ipynb).
 
 ### Выводы
 В процессе выполнения кейса первоначальные данные были:
@@ -126,4 +126,4 @@
 Все получилось, использовали разные параметры alpha.
 Точность модели при наилучшем значении alpha: 0.992
 
-:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_2/README.md#Описание-проекта#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Описание-проекта#Оглавление)
