@@ -1,43 +1,27 @@
-# Проект 0.13. Домашнее задание. Модуль: MATH_ML-13. Временные ряды. 
-<table>
-  <tr style="vertical-align:middle">
-    <!-- <th><img src = 'https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019'></th> -->
-    <!-- <th><img style="vertical-align:middle" img src = https://lms.skillfactory.ru/static/rg-theme/images/logo-header.svg></th> -->
-    <!-- <th><img style="vertical-align:middle" img src = https://static.tildacdn.com/tild3862-3932-4061-b763-363135393134/logo.svg></th> -->
-    <th height=30><img style="vertical-align:middle" img src = https://static.tildacdn.com/tild3736-6663-4331-b065-623334663336/SkillFactory.svg height=20></th>
-  </tr>
-</table>
+# Проект 6. ВВП Ганны. 
 
 ## Оглавление
-[1. Описание проекта](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.13#Описание-проекта)
+[1. Описание проекта](https://github.com/dushaelena1319/data_science/blob/main/project_6/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.13#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/dushaelena1319/data_science/blob/main/project_6/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.13#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/dushaelena1319/data_science/blob/main/project_6/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.13#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/dushaelena1319/data_science/blob/main/project_6/README.md#Этапы-работы-над-проектом)
 
-[5. Результаты](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.13#Результаты)
+[5. Результаты](https://github.com/dushaelena1319/data_science/blob/main/project_6/README.md#Результаты)
 
-  > Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.13/project/HW-13.ipynb)
+  > Перейти прямо к [презентации решения кейса](https://github.com/dushaelena1319/data_science/blob/main/project_6/ВВП.ipynb)
 
-[6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.13#Выводы)  
-
-[7. Фидбэк от ментора](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.13#Фидбэк-от-ментора)
-
-<br>
+[6. Выводы](https://github.com/dushaelena1319/data_science/blob/main/project_6/README.md#Выводы)  
 
 ## Описание проекта
 Проанализировать ВВП африканской страны Гана. Для этого предоставлены показатели ВВП Ганы за 62 года. Необходимо исследовать временной ряд, изучить его свойства, построить модели и сделать выводы по результатам..
 
 Набор данных - ***ghana_gdp.csv***, набор данных с ВВП Ганы.
 
-<br>
-
 ### Какой кейс решаем?
 Каждому теоретическому разделу модуля MATH&ML-13: временные ряды, посвященному знакомству с новыми инструментами для анализа временных рядов, сопутствует соответствующий практический юнит. Практика предполагает поступательное решение нескольких заданий.
-
-<br>
 
 **Условия:**
 - Решение оформляется только в *Jupyter Notebook*.
@@ -95,9 +79,7 @@
 -   Повышаю квалификацию по методам преобразования и очистки данных; 
 -   Повышаю квалификацию с GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.13#Оглавление)
-
-<br>
+:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Оглавление)
 
 ### Краткая информация о данных
 
@@ -117,44 +99,7 @@
 
 * Сравнить качество полученных моделей с помощью метрик.
 
-<br>
-
-### Требования для работы
-*   Основой интерпретатор - Python 3.10 (у меня взят из Windows App Store для максимальной бесшовной интеграции с VSCode);
-*   Дополнительные требования перечислены в requirements.txt (получены командой pip freeze > requirements.txt);
-*   Установка всех недостающих дополнительных компонент:
-
-            pip install -r requirements.txt
-
-*   В проекте используется:
-
-    *   scikit-learn:
-            
-            pip install -U scikit-learn
-    
-    Документация по использованию scikit-learn - [Guide scikit-learn](https://scikit-learn.org/stable/user_guide.html)
-
-    *   gdown:
-
-            pip install -U gdown
-
-    Документация по использованию - [gdown](https://github.com/wkentaro/gdown)
-
-    *   fast unzipper:
-
-            pip install -U fast_unzip
-
-    Документация по использованию - [fast unzipper](https://github.com/Inferno2899/fast_unzip)
-
-    *   rm:
-
-            pip install -U rm
-
-    Документация по использованию - [rm](https://github.com/andrewp-as-is/rm.py)
-
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.13#Оглавление)
-
-<br>
+:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_5/README.md#Оглавление)
 
 ### Этапы работы над проектом
 - Ознакомление с описанием задачи;
@@ -166,11 +111,9 @@
 - Оформление проекта;
 - Загрузка проекта на GitHub.
 
-<br>
-
 ### Результаты:
 
-Проект c корректным выполнением кейса ["Практическая работа"](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-0.13/project/HW-13.ipynb).
+Проект c корректным выполнением кейса ["Практическая работа"](https://github.com/dushaelena1319/data_science/blob/main/project_6/ВВП.ipynb).
 
 <br>
 
@@ -185,19 +128,4 @@
 
 В связи с гомоскедастичностью временного ряда и его малым числом наблюдений, использование модели GARCH не имеет смысла, т.к. результаты с точки зрения метрик и графиков дают плохой прогноз - отсутствует автокорреляция для волатильности.
 
-<br>
-
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.13#Оглавление)
-
-<br>
-
-### Фидбэк от ментора
-<!-- * Фидбэк PROJECT-0.13.url - содержит ссылку на отзыв, файл находится на Google Drive ментора -->
-* Фидбэк PROJECT-0.13.pdf - версия отзыва с полным оформлением, если по ссылке файл будет удалён
-* Фидбэк PROJECT-0.13.txt - текстовая версия отзыва, если по ссылке файл будет удалён
-
-Перейти к [отзыву](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-0.13/docs)
-
-<br>
-
-Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами.
+:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/project_6/README.md#Оглавление)
