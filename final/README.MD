@@ -5,15 +5,15 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/dushaelena1319/data_science/blob/main/final/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/dushaelena1319/data_science/blob/main/final/README.MD#Описание-проекта)
 
-[2. Краткая информация о данных](https://github.com/dushaelena1319/data_science/blob/main/final/README.md#Краткая-информация-о-данных)
+[2. Краткая информация о данных](https://github.com/dushaelena1319/data_science/blob/main/final/README.MD#Краткая-информация-о-данных)
 
-[3. Этапы работы над проектом](https://github.com/dushaelena1319/data_science/blob/main/final/README.md#Этапы-работы-над-проектом)
+[3. Этапы работы над проектом](https://github.com/dushaelena1319/data_science/blob/main/final/README.MD#Этапы-работы-над-проектом)
 
-[4. Результаты](https://github.com/dushaelena1319/data_science/blob/main/final/README.md#Результаты)
+[4. Результаты](https://github.com/dushaelena1319/data_science/blob/main/final/README.MD#Результаты)
 
-[5. Выводы](https://github.com/dushaelena1319/data_science/blob/main/final/README.md#Выводы)  
+[5. Выводы](https://github.com/dushaelena1319/data_science/blob/main/final/README.MD#Выводы)  
 
 ### Описание проекта
 Cоздать модель, которая позволит предсказывать стоимость жилья по характеристикам.
@@ -82,4 +82,4 @@ Cоздать модель, которая позволит предсказыв
 
 Расписана инструкция по созданию и запуску контейнера
 
-:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/final/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dushaelena1319/data_science/blob/main/final/README.MD#Оглавление)
